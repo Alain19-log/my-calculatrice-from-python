@@ -26,4 +26,4 @@ elif h=="multiplication":
     i=float(input("Second term :"))
     print(g*i)
 else:
-    print("But what are you doing there nigga?")
+    print("end of calculator")
